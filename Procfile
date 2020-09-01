@@ -1,1 +1,1 @@
-sh production.sh && streamlit run uber_pickups.py
+web: sh production.sh && streamlit run uber_pickups.py
