@@ -1,0 +1,1 @@
+sh production.sh && streamlit run uber_pickups.py
